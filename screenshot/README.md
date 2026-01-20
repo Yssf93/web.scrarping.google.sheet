@@ -1,1 +1,3 @@
-screenshots of script results
+## 📸 Screenshots
+
+![Result](screenshot/your_image_name.png)
