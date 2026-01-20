@@ -1,3 +1,3 @@
 ## 📸 Screenshots
 
-![Result](screenshot/sheet_result 2.png)
+![Result](screenshot/sheet_result2.png)
